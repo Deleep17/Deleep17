@@ -1,18 +1,42 @@
-## Hi there 👋
-<br>My Name is Deleep Kamath
-<br>Bachelor Of Engineering in Information Science And Engineering
-<br>N.M.A.M. Institute Of Technology, Nitte
-<!--
-**Deleep17/Deleep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I'm Deleep Kamath
 
-Here are some ideas to get you started:
+🎓 Pursuing **M.Tech in Computer Science**  
+🎓 Completed **B.E. in Information Science and Engineering**  
+🏫 **N.M.A.M. Institute of Technology**, Nitte  
+📍 Based in India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 About Me
+
+I’m a passionate postgraduate(pursuing) student with a strong interest in software development, research, and problem-solving.  
+I enjoy building meaningful projects, learning emerging technologies, and contributing to the tech community.
+
+---
+
+### 🚀 What I'm Currently Doing
+
+- 📚 Pursuing M.Tech with a focus on Computer Science
+- 🌱 Exploring AI, Machine Learning, and Deep Learning applications
+- 🛠 Working on projects using Python and web technologies
+
+---
+
+### 🔧 Tech Stack
+
+- **Languages:** Python, Java, C,   
+- **Web Development:** HTML, CSS, Bootstrap, React.js  
+- **AI/ML:** TensorFlow, OpenCV  
+- **Tools:** Git, GitHub, VS Code 
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Email: kamathdeleep876@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 [Portfolio Website](https://deleep17.github.io/your-portfolio) *(optional)*
+
+---
+
+
