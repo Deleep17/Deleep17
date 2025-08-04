@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Deleep Kamath
 
-🎓 Pursuing **M.Tech in Computer Science**  
+🎓 Pursuing **M.Tech in Computer Science** 
+🏫 **N.M.A.M. Institute of Technology**, Nitte 
 🎓 Completed **B.E. in Information Science and Engineering**  
 🏫 **N.M.A.M. Institute of Technology**, Nitte  
 📍 Based in India  
