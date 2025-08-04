@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<br>My Name is Deleep Kamath
+<br>Bachelor Of Engineering in Information Science And Engineering
+<br>N.M.A.M. Institute Of Technology, Nitte
 <!--
 **Deleep17/Deleep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
